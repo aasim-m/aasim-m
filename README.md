@@ -21,7 +21,7 @@
 
 ---
 
-## 🧩 Most Used Languages
+## 🧩 Most Used Languages (Public Repos)
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasim-m&layout=compact&theme=default" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aasim-m&layout=donut&theme=transparent" />
 </p>
