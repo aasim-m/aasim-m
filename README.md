@@ -23,5 +23,5 @@
 
 ## 🧩 Most Used Languages (Public Repos)
 <p align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aasim-m&layout=donut&theme=transparent" />
+  <img srcgithub-readme-stats-theta-five-43.vercel.app/api/top-langs/?username=aasim-m&layout=donut&theme=transparent" />
 </p>
