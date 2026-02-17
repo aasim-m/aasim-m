@@ -27,7 +27,7 @@
 ---
 
 ### 🛠️ Tech Stack
-<div align="center">
+<div align="left">
 
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -58,8 +58,7 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-   <img src="https://github-readme-stats-fast.vercel.app/api?username=aasim-m&show_icons=true&theme=transparent&include_all_commits=true" alt="Aasim's GitHub Stats" />
-   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aasim-m&layout=donut&theme=transparent&include_all_commits=true" alt="Aasim's Top Languages" />
+   <img src="https://github-readme-stats-beta-sand-36.vercel.app/api/top-langs/?username=aasim-m&layout=donut&theme=transparent&include_all_commits=true&langs_count=8&count_private=true&hide=Sass" alt="Aasim's Top Languages" />
 </p>
 
 
