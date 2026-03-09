@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Aasim! 👋</h1>
+  <h1>Hi, I'm Aasim! <img src="./assets/wave.gif" width="35px"></h1>
   <h3>MSc Computer Science Student at MBZUAI</h3>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Building+AI+Systems;Optimizing+Deep+Learning+Infrastructure;HPC+%26+Cloud+Computing;Exploring+Computer+Architecture" alt="Typing SVG" />
@@ -7,10 +7,10 @@
 
   <p>
     <a href="mailto:aasim.mo10@gmail.com">
-      <img src="https://img.shields.io/badge/Email-B90E0A?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
     </a>
     <a href="https://www.linkedin.com/in/aasim-m/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
     </a>
   </p>
 </div>
@@ -19,7 +19,7 @@
 
 ### 🚀 About Me
 - 🎓 **MSc Computer Science** student working on **HPC & AI Systems**.
-- 🧠 Interested in **Computer Architecture**, **Operating Systems**, and **AI tailored for Systems**.
+- 🧠 Interested in **Computer Architecture**, **Operating Systems**, and **AI for Systems**.
 - ⚙️ Skilled in managing **HPC environments** for large-scale ML/LLM training.
 - 🔬 Researching methods to **optimize and accelerate computing infrastructure** using AI.
 - 🤝 Open to collaborations on **intelligent and efficient computing systems**.
@@ -27,30 +27,23 @@
 ---
 
 ### 🛠️ Tech Stack
-<div align="left">
+<div align="center">
 
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  
-  <br />
-
-  <!-- AI & Compute -->
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/LlamaFactory-5C4EE5?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/ROCm-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,bash,dart,js" />
   
   <br />
 
   <!-- Tools & Ecosystem -->
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=linux,git,docker,aws,gcp,flutter" />
+  
+  <br />
+
+  <!-- AI & Compute -->
+  <img src="https://img.shields.io/badge/PyTorch-1A1B27?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-1A1B27?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/CUDA-1A1B27?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROCm-1A1B27?style=for-the-badge&logo=amd&logoColor=white" />
 
 </div>
 
@@ -58,7 +51,7 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-   <img src="https://github-readme-stats-beta-sand-36.vercel.app/api/top-langs/?username=aasim-m&layout=donut&theme=transparent&include_all_commits=true&langs_count=8&count_private=true&hide=Sass" alt="Aasim's Top Languages" />
+   <img src="https://github-readme-stats-beta-sand-36.vercel.app/api/top-langs/?username=aasim-m&layout=compact&theme=transparent&include_all_commits=true&langs_count=8&count_private=true&hide=Sass" alt="Aasim's Top Languages" />
 </p>
 
 
