@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Aasim! <img src="./assets/wave.gif" width="35px"></h1>
+  <h1>Hi, I'm Aasim! <img src="./assets/wave.gif" width="35px" alt=""></h1>
   <h3>MSc Computer Science Student at MBZUAI</h3>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Building+AI+Systems;Optimizing+Deep+Learning+Infrastructure;HPC+%26+Cloud+Computing;Exploring+Computer+Architecture" alt="Typing SVG" />
@@ -30,20 +30,20 @@
 <div align="center">
 
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,bash,dart,js" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,bash,dart,js" alt="Python, C++, MySQL, Bash, Dart, and JavaScript" />
   
   <br />
 
   <!-- Tools & Ecosystem -->
-  <img src="https://skillicons.dev/icons?i=linux,git,docker,aws,gcp,flutter" />
+  <img src="https://skillicons.dev/icons?i=linux,git,docker,aws,gcp,flutter,prometheus,grafana" alt="Linux, Git, Docker, AWS, Google Cloud, Flutter, Prometheus, and Grafana" />
   
   <br />
 
   <!-- AI & Compute -->
-  <img src="https://img.shields.io/badge/PyTorch-1A1B27?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-1A1B27?style=for-the-badge&logo=huggingface&logoColor=white" />
-  <img src="https://img.shields.io/badge/CUDA-1A1B27?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/ROCm-1A1B27?style=for-the-badge&logo=amd&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-1A1B27?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-1A1B27?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/CUDA-1A1B27?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
+  <img src="https://img.shields.io/badge/ROCm-1A1B27?style=for-the-badge&logo=amd&logoColor=white" alt="ROCm" />
 
 </div>
 
