@@ -1,0 +1,30 @@
+name: Monitor README links
+
+on:
+  schedule:
+    # Every Monday at 05:24 UTC / 09:24 Dubai time
+    - cron: "24 5 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  links:
+    name: Monitor links
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+
+      - name: Check links and images
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --root-dir "$(pwd)"
+            --no-progress
+            README.md
+          fail: true
+          failIfEmpty: true
+          jobSummary: true
