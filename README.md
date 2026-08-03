@@ -18,6 +18,7 @@
 ---
 
 ### 🚀 About Me
+
 - 🎓 **MSc Computer Science** student working on **HPC & AI Systems**.
 - 🧠 Interested in **Computer Architecture**, **Operating Systems**, and **AI for Systems**.
 - ⚙️ Skilled in managing **HPC environments** for large-scale ML/LLM training.
@@ -27,6 +28,7 @@
 ---
 
 ### 🛠️ Tech Stack
+
 <div align="center">
 
   <!-- Languages -->
@@ -50,8 +52,7 @@
 ---
 
 ### 📊 GitHub Stats
+
 <p align="left">
    <img src="https://github-readme-stats-beta-sand-36.vercel.app/api/top-langs/?username=aasim-m&layout=compact&theme=transparent&include_all_commits=true&langs_count=8&count_private=true&hide=Sass" alt="Aasim's Top Languages" />
 </p>
-
-
